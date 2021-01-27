@@ -77,7 +77,7 @@ ul{
 
 /* sign-up Section */
 .sign-up{
-    background-image: url(img.jpg);
+    background-image: url(../img/img.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
